@@ -15,7 +15,7 @@ setup(
     url="https://github.com/amrmkayid/robotist",
     packages=find_packages(),
     install_requires=[
-        "torch==1.4.0",
+        "torch==2.2.0",
     ],
     classifiers=[
         "Programming Language :: Python :: 3.6",
